@@ -1,0 +1,12 @@
+certifi
+charset-normalizer
+future
+idna
+numpy
+opencv-python
+requests
+termcolor
+tk
+urllib3
+tkinter
+Pillow
